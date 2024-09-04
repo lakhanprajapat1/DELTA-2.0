@@ -1,2 +1,2 @@
 # DELTA-2.0-
-Day Series of  Become my #MERN-STACK  Developer.
+My Day Series of  Become A #MERN-STACK  Developer.
