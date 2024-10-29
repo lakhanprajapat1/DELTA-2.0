@@ -1,3 +1,4 @@
+console.log("Day 23")
 // creat nth number array and sum of all
 
 //create array nth number
