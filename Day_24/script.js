@@ -14,3 +14,12 @@ console.log("Day 24")
             container.appendChild(newParagraph);
         }
     
+// Select the elements by their IDs
+const textElement = document.getElementById("text");
+const button = document.getElementById("changeTextButton");
+
+// Add an event listener to the button
+button.addEventListener("click", function() {
+    // Change the content of the paragraph
+    textElement.textContent = "The text has been changed!";
+});
