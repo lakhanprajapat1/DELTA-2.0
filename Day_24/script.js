@@ -21,5 +21,5 @@ const button = document.getElementById("changeTextButton");
 // Add an event listener to the button
 button.addEventListener("click", function() {
     // Change the content of the paragraph
-    textElement.textContent = "The text has been changed!";
+    textElement.textContent = "The text has been djid  changed!";
 });
